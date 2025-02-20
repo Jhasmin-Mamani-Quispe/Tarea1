@@ -1,0 +1,83 @@
+.hijo1 {
+ margin: 15px;
+ background-color: rgba(233, 53, 17, 0.9);
+ width: 490px;
+ height: 40px;
+ color:white;
+}
+.hijo2 {
+ margin: 15px;
+ background-color: rgb(219, 92, 54);
+ width: 440px;
+ height: 400px;
+ padding: 20px;
+}
+.nieto1{
+ padding: 20px;
+ width: 200px;
+ height: 100px;
+ border: 5px;
+ border-color: rgb(255, 8, 0);
+ background-color:rgb(255, 8, 0);
+ border-style: solid;
+ margin: 20px;
+ border-radius: 50%; 
+}
+.nieto2{
+ padding: 15px;
+ width: 200px;
+ height: 180px;
+ border: 5px;
+ border-color: blue;
+ background-color:blue;
+ border-style: solid;
+ margin: 20px;
+ border-radius: 50%; 
+}
+.bisnieto1{
+ padding: 10px;
+ width: 150px;
+ height: 50px;
+ border: 5px;
+ border-color: yellow;
+ background-color:yellow;
+ border-style: solid;
+ margin: 10px;
+ border-radius: 50%; 
+}
+.biA{
+ padding: 20px;
+ border-color: rgb(95, 243, 21);
+ background-color:rgb(16, 228, 20);
+ border-style: solid;
+ border-radius: 50%; 
+}
+.bisnieto2{
+ padding: 10px;
+ width: 150px;
+ height: 130px;
+ border-color: yellowgreen;
+ background-color:yellowgreen;
+ border-style: solid;
+ margin: 10px;
+ border-radius: 50%; 
+}
+.biB{
+ padding: 10px;
+ width: 120px;
+ height: 100px;
+ border-color: rgb(243, 21, 210);
+ background-color:rgb(243, 21, 210);
+ border-style: solid;
+ border-radius: 50%; 
+}
+.BiC{
+ padding: 8pxpx;
+ width: 60px;
+ height: 30px;
+ border-color:black;
+ background-color:black;
+ border-style: solid;
+ border-radius: 50%;
+ margin: 20px; 
+}
