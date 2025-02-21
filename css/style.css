@@ -35,13 +35,11 @@
 .bisnieto1{
  padding: 10px;
  width: 150px;
- height: 50px;
- border: 5px;
- border-color: yellow;
- background-color:yellow;
- border-style: solid;
+ height: 150px;
+ border: none;
+ background-color: #e8e852;
  margin: 10px;
- border-radius: 50%; 
+ border-radius: 50%;
 }
 .biA{
  padding: 20px;
