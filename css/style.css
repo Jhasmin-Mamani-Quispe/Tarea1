@@ -9,72 +9,77 @@
  margin: 15px;
  background-color: rgb(219, 92, 54);
  width: 440px;
- height: 400px;
+ height: 500px;
  padding: 20px;
 }
-.nieto1{
- padding: 20px;
- width: 200px;
- height: 100px;
- border: 5px;
- border-color: rgb(255, 8, 0);
- background-color:rgb(255, 8, 0);
- border-style: solid;
- margin: 20px;
- border-radius: 50%; 
-}
-.nieto2{
- padding: 15px;
- width: 200px;
- height: 180px;
+  
+        .nieto1 {
+            padding: 20px;
+            width: 200px;
+            height: 200px;
+            border: none;
+            background-color: #e47676;
+            margin: 20px;
+            border-radius: 50%;
+        }
+        
+        .nieto2 {
+            padding: 20px;
+ width: 210px;
+ height: 140px;
  border: 5px;
  border-color: blue;
- background-color:blue;
+ background-color: blue;
  border-style: solid;
  margin: 20px;
- border-radius: 50%; 
-}
-.bisnieto1{
- padding: 10px;
- width: 150px;
- height: 50px;
- border: 5px;
- border-color: yellow;
- background-color:yellow;
- border-style: solid;
- margin: 10px;
- border-radius: 50%; 
-}
-.biA{
- padding: 20px;
+ border-radius: 50%;
+        }
+        
+        .bisnieto1 {
+            padding: 10px;
+            width: 150px;
+            height: 150px;
+            border: none;
+            background-color: #e8e852;
+            margin: 10px;
+            border-radius: 50%;
+        }
+        
+        .biA {
+          padding: 10px;
+          width: 50px;
+            height: 50px;
  border-color: rgb(95, 243, 21);
  background-color:rgb(16, 228, 20);
  border-style: solid;
- border-radius: 50%; 
-}
-.bisnieto2{
- padding: 10px;
- width: 150px;
- height: 130px;
+ border-radius: 50%;
+ margin: 41px;
+        }
+        
+        .bisnieto2 {
+          padding: 5px;
+ width: 120px;
+ height: 120px;
  border-color: yellowgreen;
  background-color:yellowgreen;
  border-style: solid;
- margin: 10px;
  border-radius: 50%; 
+ margin:25px;
 }
 .biB{
- padding: 10px;
- width: 120px;
+ padding: 5px;
+ width: 80px;
  height: 100px;
  border-color: rgb(243, 21, 210);
  background-color:rgb(243, 21, 210);
  border-style: solid;
  border-radius: 50%; 
+ margin: 10px;
 }
 .BiC{
- padding: 8pxpx;
- width: 60px;
- height: 30px;
+ padding: 8px;
+ width: 20px;
+ height: 40px;
  border-color:black;
  background-color:black;
  border-style: solid;
